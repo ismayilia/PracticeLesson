@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\bin\Debug\Service.dll
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\bin\Debug\Service.pdb
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\bin\Debug\Domain.dll
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\bin\Debug\Domain.pdb
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\obj\Debug\Service.dll
+C:\Users\HP\Desktop\C#\C# 25.07\PracticeLesson\Service\obj\Debug\Service.pdb
